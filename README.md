@@ -1,5 +1,5 @@
-# ee4216_esp32
+# Lim Ji Yong A0282723A
 iot hardware and applications individual labs repository
 
-# Lim Ji Yong A0282723A
+
 
